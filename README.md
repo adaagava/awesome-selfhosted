@@ -2073,6 +2073,7 @@ _Related: [Ticketing](#ticketing), [Task Management & To-do Lists](#task-managem
 
 Tools and software for [software testing](https://en.wikipedia.org/wiki/Software_testing).
 
+- [Agent Factory](https://github.com/Ursa-Minor-Beta/agent-factory-docker-api-ui) - open-source studio for building, editing and running AI agents. The ready-made QA agents are available in the shared agents-store repo.
 - [Bencher](https://bencher.dev/) - Suite of continuous benchmarking tools designed to catch performance regressions in CI. ([Source Code](https://github.com/bencherdev/bencher)) `MIT/Apache-2.0` `Rust`
 - [Request Inbox](https://request-inbox.com/) - Collect and inspect HTTP requests for testing and debugging. Create and manage inboxes, capture detailed request data, configure custom responses. ([Demo](https://request-inbox.com/), [Source Code](https://github.com/jesusnoseq/request-inbox)) `Apache-2.0` `Docker`
 - [WebHook Tester](https://github.com/tarampampam/webhook-tester) - Powerful tool for testing WebHooks and more. `MIT` `Docker/Go/deb/K8S`
